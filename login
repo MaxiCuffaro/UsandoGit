@@ -1,1 +1,1 @@
-usuario : registrese por favor 
+usuario : registrese por favor git status
